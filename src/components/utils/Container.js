@@ -1,0 +1,1 @@
+export const Container = ({children}) => <div style={{padding:'0 170px'}}>{children}</div>

@@ -1,0 +1,19 @@
+.product {
+    padding: 70px 0;
+    z-index: 10;
+}
+
+.productTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.8rem;
+    line-height: 5.2rem;
+    margin-bottom: 78px;
+    color:#363636;
+}
+
+.information{
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}

@@ -1,0 +1,24 @@
+.feedback {
+    padding: 108px 122px 114px 0;
+    position: relative;
+    z-index: 10;
+}
+
+.feedbackBlock{
+    display: flex;
+    justify-content: end;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.feedbackSubtitle{
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    text-align: left;
+    margin-bottom: 47px;
+}
+
+.feedbackForm > .feedbackBtn {
+    width: 238px;
+}

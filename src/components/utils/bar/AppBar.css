@@ -1,0 +1,29 @@
+.appBar {
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+    overflow: hidden;
+    position: fixed;
+    top: 270px;
+    right: 0;
+    z-index: 10;
+}
+
+.appBarLink {
+    width: 87px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: .3s;
+    background: #fff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    border-radius: 3px 0 0 3px;
+}
+
+.appBarLink:hover,
+.appBarLink:focus {
+    background: #F5F5F5;
+}

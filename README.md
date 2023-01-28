@@ -1,0 +1,1 @@
+Created layout with screen resolution 1920. Used technologies React.js, CSS.

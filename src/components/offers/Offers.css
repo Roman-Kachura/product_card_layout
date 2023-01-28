@@ -1,0 +1,48 @@
+.offers {
+    overflow: hidden;
+    padding: 110px 0 70px 0;
+    z-index: 10;
+    position: relative;
+}
+
+.offersTitle {
+    margin-bottom: 77px;
+}
+
+.offersBlock {
+    width: 100%;
+    position: relative;
+}
+
+.carouselBlock{
+    padding: 5px;
+    overflow: hidden;
+}
+
+.carousel {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    position: relative;
+    top: 0;
+    transition: .3s;
+}
+
+.buttonLeft {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -93px;
+    margin: auto 0;
+    z-index: 3;
+}
+
+.buttonRight {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -93px;
+    margin: auto 0;
+    z-index: 3;
+}

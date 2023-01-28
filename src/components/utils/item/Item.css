@@ -1,0 +1,122 @@
+.offersItem {
+    width: 503px;
+    height: 497px;
+    padding: 58px 24px;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+}
+
+.offersItemInformation {
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    padding: 0 0 36px;
+    border-bottom: 1px dashed #319F1C;
+}
+
+.offersItemImage {
+    width: 170px;
+    height: 260px;
+    overflow: hidden;
+    margin-right: 51px;
+}
+
+.offersItemImage > img {
+    width: 100%;
+    height: 100%;
+}
+
+.offersItemText {
+    overflow: hidden;
+}
+
+.offersItemTitle {
+    margin: 0 0 12px;
+}
+
+.offersItemSubtitle {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.1rem;
+    color: #797979;
+    margin: 0 0 30px;
+}
+
+.offersItemOldPrice {
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    text-decoration-line: line-through;
+    margin-bottom: 10px;
+}
+
+.offersItemPrice {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2.4rem;
+    line-height: 2.9rem;
+    color: #319F1C;
+    margin-bottom: 40px;
+}
+
+.offersItemCharacteristics {
+    padding: 0;
+}
+
+.offersItemCharacteristics > li {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.offersItemCharacteristics > li > b {
+    font-weight: 600;
+    line-height: 1.9rem;
+    margin-right: 1.8rem;
+}
+
+.offersItemLinksBlock {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 49px;
+}
+
+.offersItemLinksBlock > a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    font-weight: 500;
+    width: 201px;
+    height: 40px;
+    border-radius: 3px;
+    transition: .3s;
+}
+
+.moreInformation {
+    color: #000;
+    background: rgba(0, 0, 0, 0);
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.toBuy {
+    color: #fff;
+    background: #319F1C;
+    box-shadow: 0 4px 8px #64BC45;
+}
+
+.toBuy:hover,
+.toBuy:focus {
+    background: #257214;
+}
+
+.moreInformation:hover,
+.moreInformation:focus {
+    background: rgba(0, 0, 0, 0.25);
+}

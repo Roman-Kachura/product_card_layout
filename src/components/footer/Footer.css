@@ -1,0 +1,92 @@
+.footer {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 39px 164px 63px 170px;
+    background: #363130;
+    z-index: 10;
+    position: relative;
+}
+
+.footer > div:first-child {
+    margin-right: 253px;
+}
+
+.footerLogo {
+    width: 284px;
+    height: 57px;
+    margin-bottom: 52px;
+}
+
+.footerBtn {
+    width: 238px;
+    height: 64px;
+    background: rgba(0, 0, 0, 0);
+    border: 1px solid #fff;
+    color: #fff;
+    box-shadow: none;
+}
+
+.footerBtn:hover,
+.footerBtn:focus {
+    background: #fff;
+    color: #363130;
+}
+
+.footer > ul {
+    list-style: none;
+    padding: 0;
+    margin-right: 194px;
+}
+
+.footer > ul > li {
+    margin-bottom: 20px;
+}
+
+.footer > ul > li > a {
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer > ul > li > a:hover,
+.footer > ul > li > a:focus {
+    text-decoration: underline;
+}
+
+.copyright {
+    margin-left: 54px;
+}
+
+.copyright > h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+    color: #fff;
+}
+
+.socialNetworks{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 34px;
+}
+
+.socialNetworks > a{
+    margin-right: 20px;
+}
+
+.alfaDigital{
+    width: 240px;
+    height: 61px;
+    margin-left: -10px;
+    overflow: hidden;
+}
+
+.alfaDigital > img{
+    width: 100%;
+    height: 100%;
+}

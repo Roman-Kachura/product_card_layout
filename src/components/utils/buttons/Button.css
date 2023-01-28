@@ -1,0 +1,44 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    width: 238px;
+    height: 64px;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    color: #fff;
+    background: #319F1C;
+    box-shadow: 0 4px 5px #319F1C;
+    border-radius: 6px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+    background: #257214;
+}
+
+.circleButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 73px;
+    height: 73px;
+    outline: none;
+    border-radius: 50%;
+    background: #319F1C;
+    border: 5px solid #fff;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+    color: #fff;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.circleButton:hover,
+.circleButton:focus {
+    background: #257214;
+}

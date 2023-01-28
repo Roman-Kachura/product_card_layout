@@ -1,0 +1,9 @@
+.app{
+    background: #fff;
+    background: url("../../background/Rectangle 1.png") no-repeat top;
+    background-size: contain;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-color: #F5F5F5 #319F1C;
+}
