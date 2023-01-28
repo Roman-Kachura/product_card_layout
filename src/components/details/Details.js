@@ -7,7 +7,7 @@ export const Details = () => {
     return (
         <div className='details'>
             <Title className='detailsTitle' text='Обсудим детали?'/>
-            <Form>
+            <Form className=''>
                 <Button type='submit' text='Хочу обсудить детали'/>
             </Form>
         </div>
