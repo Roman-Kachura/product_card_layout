@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/product_card_layout/static/css/main.09a5b456.css",
+    "main.js": "/product_card_layout/static/js/main.6e708479.js",
+    "static/js/787.1e12b7da.chunk.js": "/product_card_layout/static/js/787.1e12b7da.chunk.js",
+    "static/media/Rectangle 1.png": "/product_card_layout/static/media/Rectangle 1.bdb4725261e718cc6434.png",
+    "static/media/Rectangle 51.png": "/product_card_layout/static/media/Rectangle 51.0b9deebccac4ca3ffd1c.png",
+    "static/media/junilos-astra-2-1024x709 1.png": "/product_card_layout/static/media/junilos-astra-2-1024x709 1.bdee36d632d58508b127.png",
+    "static/media/1-14781_white-clouds-png-clipart-baby-e-kill-the 20.png": "/product_card_layout/static/media/1-14781_white-clouds-png-clipart-baby-e-kill-the 20.159d4f2da025d7f3028d.png",
+    "static/media/1-14781_white-clouds-png-clipart-baby-e-kill-the 16.png": "/product_card_layout/static/media/1-14781_white-clouds-png-clipart-baby-e-kill-the 16.6edf2973205e77ddf4f9.png",
+    "static/media/2 21.png": "/product_card_layout/static/media/2 21.4bc359dc55367456ce56.png",
+    "static/media/134A 1.png": "/product_card_layout/static/media/134A 1.5411090be9a89ab0be6c.png",
+    "static/media/otv4 1.png": "/product_card_layout/static/media/otv4 1.dc42a28b5df129760d34.png",
+    "static/media/Rectangle 108.png": "/product_card_layout/static/media/Rectangle 108.1e5909200ac8446e94bc.png",
+    "static/media/Rectangle 92.png": "/product_card_layout/static/media/Rectangle 92.4d9430722f87c9d88a31.png",
+    "static/media/Rectangle 89.png": "/product_card_layout/static/media/Rectangle 89.c7291ee7a42464ed4344.png",
+    "static/media/Rectangle 91.png": "/product_card_layout/static/media/Rectangle 91.07eed5e66977fa836741.png",
+    "static/media/logo.png": "/product_card_layout/static/media/logo.5ae5bba1423ae5af907b.png",
+    "index.html": "/product_card_layout/index.html",
+    "main.09a5b456.css.map": "/product_card_layout/static/css/main.09a5b456.css.map",
+    "main.6e708479.js.map": "/product_card_layout/static/js/main.6e708479.js.map",
+    "787.1e12b7da.chunk.js.map": "/product_card_layout/static/js/787.1e12b7da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a5b456.css",
+    "static/js/main.6e708479.js"
+  ]
+}
